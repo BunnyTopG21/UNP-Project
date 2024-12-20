@@ -17,10 +17,10 @@ This project was undertaken as part of an internship program facilitated by our 
 ## Repository Contents
 
 - **PDF Presentations:**
-  - Two presentation slides summarizing the project in detail, available in the `PDF` folder.
+  - Two presentation slides summarizing the project in detail, available in .pdf
 
-- **Google Drive Link (in `google_drive_link.txt`):**
-  - Contains:
+- **Google Drive Link (in `My-UNP-Project-Work-Google-Drive-Link.txt`):**
+  - Contains: Google Drive Link that has the below mentioned files.
     - Presentation files in `.pptx` format.
     - Google Colab notebooks (`.ipynb`) with code implementations.
 
