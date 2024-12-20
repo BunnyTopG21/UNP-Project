@@ -63,7 +63,7 @@ This project was undertaken as part of an internship program facilitated by our 
    ```bash
    git clone https://github.com/<username>/<repository_name>.git
    ```
-2. Access the `google_drive_link.txt` file to download the presentations and code notebooks.
+2. Access the `My-UNP-Project-Work-Google-Drive-Link.txt` file to download the presentations and code notebooks.
 3. Follow the steps outlined in the Google Colab notebooks to reproduce the results.
 
 ## Results
